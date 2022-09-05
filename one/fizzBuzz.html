@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fizz Buzz | Hemant Chaubey</title>
+</head>
+<body>
+  <div>Q. Write a program to execute Fizz Buzz Problem</div><br>
+  <div>Problem description:</div>
+  <div>Print number 1 to 100</div>
+  <div>if number is divisible by 3 then print Fizz</div>
+  <div>if number is divisible by 5 then print Buzz</div>
+  <div>if number is divisible by both 3 and 5 then print Fizz Buzz</div><br>
+  <div>Solution: </div>
+  <div>Check the console for the output</div>
+
+  <script>
+    for(let i = 1; i < 101; i++){
+      if(i%3 == 0){
+        if(i%5 == 0)
+          console.log(`${i} Fizz Buzz`);
+        else
+        console.log(`${i} Fizz`);
+      }
+      else if(i%5 == 0){
+        console.log(`${i} Buzz`);
+      }
+    }
+  </script>
+</body>
+</html>

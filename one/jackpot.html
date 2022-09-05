@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jackpot | Hemant Chaubey</title>
+</head>
+<body>
+  <script>
+    var attempts = 10;
+    var jackpot = Math.floor(Math.random() * 100) + 1;
+    var won = 0;
+    while(attempts >  0 && won==0){
+      guess = parseInt(prompt('Guess a number: '))
+      if(guess == jackpot){
+        alert('Congrats! You won...');
+        won = 1;
+      } else if(guess > jackpot){
+        alert('Please select a smaller number');
+      } else if(guess < jackpot){
+        alert('Please select a greater number');
+      }
+    }
+  </script>
+</body>
+</html>

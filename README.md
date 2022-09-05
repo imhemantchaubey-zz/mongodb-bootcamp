@@ -2,7 +2,7 @@
 
 ## list of programs | day 1
 
-| sr no  | name |  description |
+| sr no  | demo |  description |
 |---|:---------------------------------:|:---------------------------|
 | 1 | [hello](https://imhemantchaubey.github.io/mongodb-bootcamp//one/hello)         | hello user program |
 | 2 | [sum](https://imhemantchaubey.github.io/mongodb-bootcamp//one/sum)             | program to add two numbers |

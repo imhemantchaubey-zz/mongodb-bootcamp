@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Square | Hemant Chaubey</title>
+</head>
+<body>
+  <div>
+    Enter the number:
+    <input type="text" id="num">
+  </div>
+  <div>
+    <button type="submit" onclick="getSquare()">Calculate</button>
+  </div>
+  <div id="sol"></div>
+  <script>
+    function getSquare(){
+      var number = document.getElementById("num").value;
+      document.getElementById("sol").innerHTML = `Square of ${number} is ${number*number}`;
+    }
+  </script>
+</body>
+</html>

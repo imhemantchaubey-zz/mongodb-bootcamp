@@ -18,3 +18,11 @@
 | 1 | [evenOddCount](https://imhemantchaubey.github.io/mongodb-bootcamp//two/evenOddCount)   | program to find the count of even and odd numbers from the given array |
 | 2 | [average](https://imhemantchaubey.github.io/mongodb-bootcamp//two/average)             | program to find the average of all the elements from the given array |
 | 3 | [matrixSum](https://imhemantchaubey.github.io/mongodb-bootcamp//two/matrixSum)               | program to print sum of all elements of 2 x 3 given matrix |
+
+## 📌learning resources | day 3
+
+| sr no  | codes |  description |
+|---|:---------------------------------:|:---------------------------|
+| 1 | [exports](https://github.com/imhemantchaubey/mongodb-bootcamp/tree/main/three/exports)             | how exports works in javascript and nodejs |
+| 2 | [express](https://github.com/imhemantchaubey/mongodb-bootcamp/tree/main/three/express)             | restapi with express js |
+| 3 | [frontend-api](three/frontend-api)   | frontend integration with rest api |

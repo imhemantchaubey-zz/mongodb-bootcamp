@@ -2,7 +2,7 @@
 
 ## 📌learning resources | day 1
 
-| sr no  | demo |  description |
+| sr no  | codes/demos |  description |
 |---|:---------------------------------:|:---------------------------|
 | 1 | [hello](https://imhemantchaubey.github.io/mongodb-bootcamp//one/hello)         | hello user program |
 | 2 | [sum](https://imhemantchaubey.github.io/mongodb-bootcamp//one/sum)             | program to add two numbers |
@@ -13,7 +13,7 @@
 
 ## 📌learning resources | day 2
 
-| sr no  | demo |  description |
+| sr no  | codes/demos |  description |
 |---|:---------------------------------:|:---------------------------|
 | 1 | [evenOddCount](https://imhemantchaubey.github.io/mongodb-bootcamp//two/evenOddCount)   | program to find the count of even and odd numbers from the given array |
 | 2 | [average](https://imhemantchaubey.github.io/mongodb-bootcamp//two/average)             | program to find the average of all the elements from the given array |
@@ -21,8 +21,14 @@
 
 ## 📌learning resources | day 3
 
-| sr no  | codes |  description |
+| sr no  | codes/demos |  description |
 |---|:---------------------------------:|:---------------------------|
 | 1 | [exports](https://github.com/imhemantchaubey/mongodb-bootcamp/tree/main/three/exports)             | how exports works in javascript and nodejs |
 | 2 | [express](https://github.com/imhemantchaubey/mongodb-bootcamp/tree/main/three/express)             | restapi with express js |
 | 3 | [frontend-api](three/frontend-api)   | frontend integration with rest api |
+
+## 📌learning resources | day 4
+
+| sr no  | codes/demos |  description |
+|---|:---------------------------------:|:---------------------------|
+| 1 | [four](https://github.com/imhemantchaubey/mongodb-bootcamp/tree/main/four)             | frontend integration with mongodb atlas using rest api |

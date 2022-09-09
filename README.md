@@ -18,6 +18,7 @@
 | 1 | [evenOddCount](https://imhemantchaubey.github.io/mongodb-bootcamp//two/evenOddCount)   | program to find the count of even and odd numbers from the given array |
 | 2 | [average](https://imhemantchaubey.github.io/mongodb-bootcamp//two/average)             | program to find the average of all the elements from the given array |
 | 3 | [matrixSum](https://imhemantchaubey.github.io/mongodb-bootcamp//two/matrixSum)               | program to print sum of all elements of 2 x 3 given matrix |
+| 4 | [division](https://imhemantchaubey.github.io/mongodb-bootcamp//two/division)   | program to alert the division of a student after entering the percentage |
 
 ## 📌learning resources | day 3
 

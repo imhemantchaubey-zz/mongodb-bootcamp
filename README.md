@@ -1,5 +1,7 @@
 # mongodb-bootcamp
 
+<img src="https://img.shields.io/badge/mongodb-bootcamp-red"> <img src="https://img.shields.io/badge/nodejs-bootcamp-green"> <img src="https://img.shields.io/badge/javascript-%F0%9F%93%8C-yellow">
+
 ## 📌learning resources | day 1
 
 | sr no  | codes/demos |  description |
